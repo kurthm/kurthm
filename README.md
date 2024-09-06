@@ -5,4 +5,4 @@
 - I’m currently working on a model predicting wins in professional hockey
 - I am also learning to code everything I know in R using Python
 - I would love to learn more about baseball analytics and individual player evaluation methods
-- I picked Kansas to win March Madness in 2022 💁‍♀️
+- I picked Kansas to win March Madness in 2022 and have been out in the first round since
